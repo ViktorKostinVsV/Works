@@ -1,0 +1,28 @@
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.exe
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.deps.json
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.runtimeconfig.json
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.runtimeconfig.dev.json
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.dll
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.pdb
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Laba_10.exe
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Laba_10.pdb
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Laba_10.exe.config
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.csprojAssemblyReference.cache
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.AssemblyInfoInputs.cache
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.AssemblyInfo.cs
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.csproj.CopyComplete
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.dll
+C:\Users\vit9i\Dropbox\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.pdb
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.exe
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.deps.json
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.runtimeconfig.json
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.runtimeconfig.dev.json
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.dll
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\bin\Debug\netcoreapp3.1\Lab_№11.pdb
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.csprojAssemblyReference.cache
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.AssemblyInfoInputs.cache
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.AssemblyInfo.cs
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.dll
+C:\Users\vit9i\OneDrive\Рабочий стол\Lab_№11\Lab_№11\obj\Debug\netcoreapp3.1\Lab_№11.pdb

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab__11.Program">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAICAAgAUFRgAQCEcAoCQIAKAAAEACARQADAAgKgA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab__11.TestCollections">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAgCAAAAAAACAAUFAACAACAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>TestCollections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab__11.TMerch">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAQAAAAQFgAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TMerch.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab__11.TMilkProduct">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAABEgAAAAAAAAAAEAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>TMilkProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab__11.TMoney">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAEAAOAIgkACgAEAAIQAABAEAAAAiA=</HashCode>
+      <FileName>TMoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab__11.TProduct">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAABEgAAAAAAAACAEAAAgAAAAABAAABA=</HashCode>
+      <FileName>TProduct.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab__11.TToy">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAAAAAAABEgAAAAAAAAAIEAAACAAAAAAAAAAA=</HashCode>
+      <FileName>TToy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
